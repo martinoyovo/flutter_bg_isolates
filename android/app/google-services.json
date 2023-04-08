@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309426946323",
+    "firebase_url": "https://flutgo-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutgo",
+    "storage_bucket": "flutgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309426946323:android:2c4a22f1ac922539505ae6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bg_isolates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309426946323-65vbbrn8hi7vkofnrv1dc0642albukjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHgE8h8AFnLxSTMWS_oO-V33rSYqA7ilI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309426946323-65vbbrn8hi7vkofnrv1dc0642albukjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
